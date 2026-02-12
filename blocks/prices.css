@@ -1,0 +1,13 @@
+.prices {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.prices__button {
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 18px 0;
+}

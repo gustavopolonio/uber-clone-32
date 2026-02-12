@@ -1,0 +1,19 @@
+.section {
+  height: 1220px;
+  position: relative;
+
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.section__title {
+  margin: 0;
+}
+
+.section__background-image {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+
+  width: 340px;
+}
